@@ -1,15 +1,15 @@
 Specificiations:
-  - parameter: '1 dBc Passband'
+  - parameter: '1dBc Passband'
     test conditions: 'Configuration A, 25 deg C'
     start_freq: 3.50
     stop_freq: 4.50
     Unit: 'GHz'
-  - parameter: '3 dBc Passband'
+  - parameter: '3dBc Passband'
     test conditions: 'Configuration A, 25 deg C'
     start_freq: 3.00
     stop_freq: 5.00
     Unit: 'GHz'
-  - parameter: '30 dBc Rejection Point'
+  - parameter: '30dBc Rejection Point'
     test conditions: 'Configuration A, 25 deg C'
     start_freq: 2.50
     stop_freq: 5.50
