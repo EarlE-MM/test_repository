@@ -27,14 +27,6 @@ Specificiations:
     Min: 1.9
     Max: 2.1
     Unit: 'dB'
-  - parameter: 'Group Delay'
-    test conditions: 'Configuration A, 25 deg C'
-    typical value: 650
-    Unit: 'ps'
-  - parameter: 'Impedance'
-    test conditions: 'Configuration A, 25 deg C'
-    typical value: 50
-    Unit: 'ohm'
   - parameter: 'IL at Center Frequency'
     test conditions: 'Configuration A, 25 deg C'
     typical value: 2
@@ -43,5 +35,13 @@ Specificiations:
     test conditions: 'Configuration A, 25 deg C'
     typical value: 40
     Unit: 'dB'
+  - parameter: 'Group Delay'
+    test conditions: 'Configuration A, 25 deg C'
+    typical value: 650
+    Unit: 'ps'
+  - parameter: 'Impedance'
+    test conditions: 'Configuration A, 25 deg C'
+    typical value: 50
+    Unit: 'ohm'
   - parameter: 'Filter Order'
     typical value: 4
